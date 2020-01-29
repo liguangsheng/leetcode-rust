@@ -1,5 +1,10 @@
-#![allow(dead_code)]
-struct Solution {}
+/*
+ * [0001] two-sum
+ */
+
+pub struct Solution {}
+
+// solution impl starts here
 
 use std::collections::HashMap;
 impl Solution {
@@ -17,6 +22,10 @@ impl Solution {
     }
 }
 
+// solution impl ends here
+
+// solution tests starts here
+
 #[cfg(test)]
 mod tests {
     use super::*;
@@ -31,3 +40,5 @@ mod tests {
         assert_eq!(vec![1, 2], Solution::two_sum(vec![3, 2, 4], 6));
     }
 }
+
+// solution tests ends here

@@ -4,4 +4,18 @@ version = "0.1.0"
 authors = ["guangsheng.li01 <guangsheng.li01@liulishuo.com>"]
 edition = "2018"
 
+[lib]
+test = true
+doctest = false
+
+[[bin]]
+name = "leetcode-rust"
+test = false
+doctest = false
+
 [dependencies]
+url = "2.1.1"
+handlebars = "~3.0.0"
+serde_json = "1.0"
+
+

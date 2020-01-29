@@ -1,8 +1,10 @@
-// algothrim 0007 - reverse integer
-#![allow(dead_code)]
-struct Solution {}
+/*
+ * [0007] reverse-integer
+ */
 
-// Solution impl starts.
+pub struct Solution {}
+
+// solution impl starts here
 impl Solution {
     pub fn reverse(x: i32) -> i32 {
         let mut m = x.abs() as i64;
@@ -23,9 +25,10 @@ impl Solution {
         n as i32
     }
 }
-// Solution impl ends.
+// solution impl ends here
 
-// Solution tests starts.
+// solution tests starts here
+
 #[cfg(test)]
 mod tests {
     use super::*;
@@ -37,4 +40,5 @@ mod tests {
         assert_eq!(0, Solution::reverse(1534236469));
     }
 }
-// Solution tests ends.
+
+// solution tests ends here
