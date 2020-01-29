@@ -2,3 +2,4 @@
 mod a0000_sample;
 mod a0001_two_sum;
 mod a0007_reverse_integer;
+mod a0009_palindrome_number;

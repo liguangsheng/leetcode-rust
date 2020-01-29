@@ -1,4 +1,3 @@
-#[macro_use]
 extern crate handlebars;
 #[macro_use]
 extern crate serde_json;
