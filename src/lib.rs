@@ -11,6 +11,7 @@ mod a0145_binary_tree_postorder_traversal;
 mod a0172_factorial_trailing_zeroes;
 mod a0400_nth_digit;
 mod a0404_sum_of_left_leaves;
+mod a0405_convert_a_number_to_hexadecimal;
 mod a0617_merge_two_binary_trees;
 mod a0643_maximum_average_subarray_i;
 mod a0929_unique_email_addresses;
