@@ -14,6 +14,7 @@ mod a0053_maximum_subarray;
 mod a0066_plus_one;
 mod a0088_merge_sorted_array;
 mod a0118_pascals_triangle;
+mod a0119_pascals_triangle_ii;
 mod a0145_binary_tree_postorder_traversal;
 mod a0172_factorial_trailing_zeroes;
 mod a0400_nth_digit;
