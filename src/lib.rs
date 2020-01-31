@@ -7,6 +7,7 @@ mod a0000_sample;
 mod a0001_two_sum;
 mod a0007_reverse_integer;
 mod a0009_palindrome_number;
+mod a0026_remove_duplicates_from_sorted_array;
 mod a0145_binary_tree_postorder_traversal;
 mod a0172_factorial_trailing_zeroes;
 mod a0400_nth_digit;
