@@ -9,6 +9,7 @@ mod a0007_reverse_integer;
 mod a0009_palindrome_number;
 mod a0026_remove_duplicates_from_sorted_array;
 mod a0027_remove_element;
+mod a0035_search_insert_position;
 mod a0145_binary_tree_postorder_traversal;
 mod a0172_factorial_trailing_zeroes;
 mod a0400_nth_digit;
