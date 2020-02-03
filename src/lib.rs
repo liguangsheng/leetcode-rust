@@ -30,6 +30,7 @@ mod a0931_minimum_falling_path_sum;
 mod a0937_reorder_data_in_log_files;
 mod a0949_largest_time_for_given_digits;
 mod a0973_k_closest_points_to_origin;
+mod a0980_unique_paths_iii;
 mod a1021_remove_outermost_parentheses;
 mod a1047_remove_all_adjacent_duplicates_in_string;
 mod a1200_minimum_absolute_difference;
