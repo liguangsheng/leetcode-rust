@@ -23,6 +23,7 @@ mod a0404_sum_of_left_leaves;
 mod a0405_convert_a_number_to_hexadecimal;
 mod a0617_merge_two_binary_trees;
 mod a0643_maximum_average_subarray_i;
+mod a0867_transpose_matrix;
 mod a0929_unique_email_addresses;
 mod a0931_minimum_falling_path_sum;
 mod a0937_reorder_data_in_log_files;
