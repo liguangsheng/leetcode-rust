@@ -13,6 +13,7 @@ mod a0035_search_insert_position;
 mod a0053_maximum_subarray;
 mod a0066_plus_one;
 mod a0088_merge_sorted_array;
+mod a0103_binary_tree_zigzag_level_order_traversal;
 mod a0118_pascals_triangle;
 mod a0119_pascals_triangle_ii;
 mod a0145_binary_tree_postorder_traversal;
