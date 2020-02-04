@@ -11,6 +11,7 @@ mod a0009_palindrome_number;
 mod a0026_remove_duplicates_from_sorted_array;
 mod a0027_remove_element;
 mod a0035_search_insert_position;
+mod a0042_trapping_rain_water;
 mod a0053_maximum_subarray;
 mod a0066_plus_one;
 mod a0088_merge_sorted_array;
