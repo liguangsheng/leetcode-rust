@@ -5,6 +5,7 @@ pub mod utils;
 
 mod a0000_sample;
 mod a0001_two_sum;
+mod a0004_median_of_two_sorted_arrays;
 mod a0007_reverse_integer;
 mod a0009_palindrome_number;
 mod a0026_remove_duplicates_from_sorted_array;
