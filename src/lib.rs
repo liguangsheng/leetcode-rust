@@ -27,6 +27,7 @@ mod a0617_merge_two_binary_trees;
 mod a0643_maximum_average_subarray_i;
 mod a0646_maximum_length_of_pair_chain;
 mod a0867_transpose_matrix;
+mod a0883_projection_area_of_3d_shapes;
 mod a0929_unique_email_addresses;
 mod a0931_minimum_falling_path_sum;
 mod a0937_reorder_data_in_log_files;
