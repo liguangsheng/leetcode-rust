@@ -20,6 +20,7 @@ mod a0118_pascals_triangle;
 mod a0119_pascals_triangle_ii;
 mod a0145_binary_tree_postorder_traversal;
 mod a0172_factorial_trailing_zeroes;
+mod a0322_coin_change;
 mod a0392_is_subsequence;
 mod a0400_nth_digit;
 mod a0404_sum_of_left_leaves;
