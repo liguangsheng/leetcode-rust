@@ -8,6 +8,7 @@ mod a0001_two_sum;
 mod a0004_median_of_two_sorted_arrays;
 mod a0007_reverse_integer;
 mod a0009_palindrome_number;
+mod a0019_binary_tree_inorder_traversal;
 mod a0026_remove_duplicates_from_sorted_array;
 mod a0027_remove_element;
 mod a0035_search_insert_position;
