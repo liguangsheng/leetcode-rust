@@ -47,4 +47,5 @@ mod a1047_remove_all_adjacent_duplicates_in_string;
 mod a1200_minimum_absolute_difference;
 mod a1287_element_appearing_more_than_25_in_sorted_array;
 mod a1302_deepest_leaves_sum;
+mod a1315_sum_of_nodes_with_even_valued_grandparent;
 mod a1317_convert_integer_to_the_sum_of_two_no_zero_integers;
