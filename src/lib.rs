@@ -22,6 +22,7 @@ mod a0119_pascals_triangle_ii;
 mod a0145_binary_tree_postorder_traversal;
 mod a0169_majority_element;
 mod a0172_factorial_trailing_zeroes;
+mod a0226_invert_binary_tree;
 mod a0322_coin_change;
 mod a0343_integer_break;
 mod a0392_is_subsequence;
