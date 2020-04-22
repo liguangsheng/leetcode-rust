@@ -34,6 +34,7 @@ mod a0643_maximum_average_subarray_i;
 mod a0646_maximum_length_of_pair_chain;
 mod a0654_maximum_binary_tree;
 mod a0701_insert_into_a_binary_search_tree;
+mod a0761_special_binary_string;
 mod a0867_transpose_matrix;
 mod a0883_projection_area_of_3d_shapes;
 mod a0894_all_possible_full_binary_trees;
