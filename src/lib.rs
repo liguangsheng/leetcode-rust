@@ -51,6 +51,7 @@ mod a1012_numbers_with_repeated_digits;
 mod a1018_binary_prefix_divisible_by_5;
 mod a1021_remove_outermost_parentheses;
 mod a1047_remove_all_adjacent_duplicates_in_string;
+mod a1137_n_th_tribonacci_number;
 mod a1200_minimum_absolute_difference;
 mod a1287_element_appearing_more_than_25_in_sorted_array;
 mod a1302_deepest_leaves_sum;
