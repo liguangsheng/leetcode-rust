@@ -36,6 +36,7 @@ mod a0654_maximum_binary_tree;
 mod a0701_insert_into_a_binary_search_tree;
 mod a0726_number_of_atoms;
 mod a0761_special_binary_string;
+mod a0779_k_th_symbol_in_grammar;
 mod a0783_minimum_distance_between_bst_nodes;
 mod a0867_transpose_matrix;
 mod a0883_projection_area_of_3d_shapes;
